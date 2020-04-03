@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title> Ragi Idup</title>
+    <url>newbuy.php?items_id=2</url>
+  </link>
+  <link>
+    <title>Ulos Sadum Ungu</title>
+    <url>newbuy.php?items_id=13</url>
+  </link>
+  <link>
+    <title>Ulos Mangiring Harungguan</title>
+   <url> newbuy.php?items_id=14</url>
+  </link>
+  <link>
+    <title>Ragi Hotang Pintu Batu</title>
+    <url>newbuy.php?items_id=15</url>
+  </link>
+  <link>
+    <title>Songket Toba</title>
+    <url>newbuy.php?items_id=16</url>
+  </link>
+  <link>
+    <title>Ragi Idup Benang Emas</title>
+    <url>newbuy.php?items_id=17</url>
+  </link>
+  <link>
+    <title>Ulos Mangiring Hitam</title>
+    <url>newbuy.php?items_id=18</url>
+  </link>
+  <link>
+    <title>Ulos Mangiring Hijau</title>
+    <url>newbuy.php?items_id=19</url>
+  </link>
+  <link>
+    <title>Selendang Sadum Mini</title>
+    <url>newbuy.php?items_id=20</url>
+  </link>
+  <link>
+    <title>Songket Toba Merah</title>
+    <url>newbuy.php?items_id=21</url>
+  </link>
+  <link>
+    <title>Songket Sadum Merah</title>
+    <url>newbuy.php?items_id=22</url>
+  </link>
+  <link>
+    <title>Songket Sadum Biru</title>
+    <url>newbuy.php?items_id=23</url>
+  </link>
+
+</pages>
